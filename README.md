@@ -172,6 +172,9 @@ To plot the Weierstrass Function in Python, use the following code, [View `weier
 For zoomed in Weierstrass, use the following code, [View `weierstrass-zoom.py`](Python/weierstrass-zoom.py).  
 For animation, use the following code, [View `weierstrass-animation.py`](Python/weierstrass-animation.py).   
 Animaion output file is available for download: [View `weierstrass-animation.mp4`](media/weierstrass-animation.mp4).  
+Animaion Animation based on the increasing of the b value from 0.1 to 5:  [View `weierstrass-animation.gif`](media/weierstrass-animation.gif).  
+![weierstrass-animation.gif](media/weierstrass-animation.gif)
+
 
 ---
 
