@@ -1,4 +1,4 @@
-# Patterns of Infinity: Complexity and Repetition
+# Patterns of Infinity: The Beauty of Mathematical Curves
 Mathematical functions can produce stunning and visually captivating plots. Here’s a list of four of the most beautiful functions to plot, celebrated for their aesthetic appeal, symmetry, and intricate patterns.
 
 ## 1. Butterfly Curve (Transcendental)
