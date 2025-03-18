@@ -178,5 +178,12 @@ Animaion Animation based on the increasing of the b value from 0.1 to 5:  [View 
 
 ---
 
+[Watch the Youtube video here](https://youtu.be/nRk6nF6zaBY)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/nRk6nF6zaBY/0.jpg)](https://www.youtube.com/watch?v=nRk6nF6zaBY)
+
+
+---
+
 
 
